@@ -22,4 +22,4 @@ elevenlabs==0.2.16
 yt-dlp==2023.3.4
 edge-tts==6.1.5
 stable-ts==2.6.4
-ass== 0.5.3
+ass== 0.5.4
