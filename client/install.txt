@@ -1,0 +1,8 @@
+run these commands 
+
+
+
+python install -r requirements.txt 
+python -m playwright install
+
+edit the config and settings.ass to change settings use aegisub
